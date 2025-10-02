@@ -10,3 +10,4 @@ wheels/
 .venv
 
 .env
+titanic-data/titanic3.csv
